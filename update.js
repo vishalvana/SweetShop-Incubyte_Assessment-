@@ -1,0 +1,1 @@
+db.sweets.updateOne({_id: ObjectId('693ebb1b7c6cae169eba6ea9')}, {$set: {quantity: 0}})
