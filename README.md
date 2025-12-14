@@ -166,32 +166,32 @@ mvn test
 ## 📸 Here's Demo 
 ## 📸 Application Screenshots
 
-### 🔐 Authentication (Login / Register)
+
 <img src="https://raw.githubusercontent.com/vishalvana/SweetShop-Incubyte_Assessment-/main/Screenshot%202025-11-28%20021529.jpg" width="800" />
 
 ---
 
-### 🏠 User Dashboard – Sweets Listing
+
 <img src="https://raw.githubusercontent.com/vishalvana/SweetShop-Incubyte_Assessment-/main/Screenshot%202025-12-14%20213313.jpg" width="800" />
 
 ---
 
-### 🔍 Search & Filter Functionality
+
 <img src="https://raw.githubusercontent.com/vishalvana/SweetShop-Incubyte_Assessment-/main/Screenshot%202025-12-14%20213350.jpg" width="800" />
 
 ---
 
-### 🛒 Purchase Flow
+
 <img src="https://raw.githubusercontent.com/vishalvana/SweetShop-Incubyte_Assessment-/main/Screenshot%202025-12-14%20213419.jpg" width="800" />
 
 ---
 
-### 🧑‍💼 Admin Dashboard – Inventory Management
+
 <img src="https://raw.githubusercontent.com/vishalvana/SweetShop-Incubyte_Assessment-/main/Screenshot%202025-12-14%20213456.jpg" width="800" />
 
 ---
 
-### 📦 Admin – Restock & Sweet Management
+
 <img src="https://raw.githubusercontent.com/vishalvana/SweetShop-Incubyte_Assessment-/main/Screenshot%202025-12-14%20213519.jpg" width="800" />
 
 
