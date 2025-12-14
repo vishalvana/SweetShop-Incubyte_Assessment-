@@ -5,10 +5,14 @@ The application enables users to browse and purchase sweets, while administrator
 It is built using **Spring Boot + MongoDB** for the backend and **React** for the frontend, with **JWT-based authentication** and **role-based authorization**.
 
 ---
-# Live Link : 
+# Live Link : (Backend Deployed On Render so it will take time to wake up so please be patient)
 https://sweet-shop-frontend-beta.vercel.app
+---
+Admin email : admin@gmail.com
+Admin Password : admin@123
 
 ---
+
 
 ## 📌 Project Overview
 
@@ -25,6 +29,42 @@ Special attention was given to:
 - Transparent and responsible usage of AI tools during development
 
 This repository contains **separate backend and frontend codebases**, making the project easy to understand, run, and extend. The project is designed to be interview-ready, with clear documentation, test coverage, and an explicit explanation of AI usage.
+
+
+---
+
+## 📸 Application Screenshots
+
+
+<img src="https://raw.githubusercontent.com/vishalvana/SweetShop-Incubyte_Assessment-/main/Screenshot%202025-11-28%20021529.jpg" width="800" />
+
+---
+
+
+<img src="https://raw.githubusercontent.com/vishalvana/SweetShop-Incubyte_Assessment-/main/Screenshot%202025-12-14%20213313.jpg" width="800" />
+
+---
+
+
+<img src="https://raw.githubusercontent.com/vishalvana/SweetShop-Incubyte_Assessment-/main/Screenshot%202025-12-14%20213350.jpg" width="800" />
+
+---
+
+
+<img src="https://raw.githubusercontent.com/vishalvana/SweetShop-Incubyte_Assessment-/main/Screenshot%202025-12-14%20213419.jpg" width="800" />
+
+---
+
+
+<img src="https://raw.githubusercontent.com/vishalvana/SweetShop-Incubyte_Assessment-/main/Screenshot%202025-12-14%20213456.jpg" width="800" />
+
+---
+
+
+<img src="https://raw.githubusercontent.com/vishalvana/SweetShop-Incubyte_Assessment-/main/Screenshot%202025-12-14%20213519.jpg" width="800" />
+
+
+
 
 
 ---
@@ -163,42 +203,6 @@ mvn test
 
 ---
 
-## 📸 Here's Demo 
-## 📸 Application Screenshots
-
-
-<img src="https://raw.githubusercontent.com/vishalvana/SweetShop-Incubyte_Assessment-/main/Screenshot%202025-11-28%20021529.jpg" width="800" />
-
----
-
-
-<img src="https://raw.githubusercontent.com/vishalvana/SweetShop-Incubyte_Assessment-/main/Screenshot%202025-12-14%20213313.jpg" width="800" />
-
----
-
-
-<img src="https://raw.githubusercontent.com/vishalvana/SweetShop-Incubyte_Assessment-/main/Screenshot%202025-12-14%20213350.jpg" width="800" />
-
----
-
-
-<img src="https://raw.githubusercontent.com/vishalvana/SweetShop-Incubyte_Assessment-/main/Screenshot%202025-12-14%20213419.jpg" width="800" />
-
----
-
-
-<img src="https://raw.githubusercontent.com/vishalvana/SweetShop-Incubyte_Assessment-/main/Screenshot%202025-12-14%20213456.jpg" width="800" />
-
----
-
-
-<img src="https://raw.githubusercontent.com/vishalvana/SweetShop-Incubyte_Assessment-/main/Screenshot%202025-12-14%20213519.jpg" width="800" />
-
-
-
-
-
----
 
 ##  My AI Usage
 
